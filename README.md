@@ -21,6 +21,7 @@ The work is split into 4 sections shown below:
 - 2. Patch Display
 
 ## An example of developed patch 
+European Fire Salamander 64 pixels
 ![download](https://github.com/user-attachments/assets/9739f662-3f74-48fb-b0e6-47e9cfb3cd7e)
 
 
