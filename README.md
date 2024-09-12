@@ -1,4 +1,4 @@
-[![Python Application Test with Github Actions](https://github.com/BobZhang26/Bob_PythonTemplate1/actions/workflows/cicd.yml/badge.svg)](https://github.com/BobZhang26/Bob_PythonTemplate1/actions/workflows/cicd.yml)
+[![CICD](https://github.com/BobZhang26/XAI-adversarial-patch/actions/workflows/cicd.yml/badge.svg)](https://github.com/BobZhang26/XAI-adversarial-patch/actions/workflows/cicd.yml)
 ## XAI Assignment 2: Adversarial Patch
  
 
