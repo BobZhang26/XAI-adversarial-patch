@@ -1,6 +1,6 @@
 [![CICD](https://github.com/BobZhang26/XAI-adversarial-patch/actions/workflows/cicd.yml/badge.svg)](https://github.com/BobZhang26/XAI-adversarial-patch/actions/workflows/cicd.yml)
 ## XAI Assignment 2: Adversarial Patch
- 
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIPI-590-XAI/Duke-AI-XAI/blob/dev/templates/template.ipynb)
 
 ## Description
 In this assignment, we are creating a image patch used in adversarial attack. The patch is a physical object that may appear abstractive to human perception but it can profoundly affect the image recognition algorithms. This assignment is inspired by the work and study conducted by [Tom Brown et al](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fpdf%2F1712.09665.pdf).
